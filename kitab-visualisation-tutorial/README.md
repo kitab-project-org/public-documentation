@@ -41,7 +41,7 @@ We can look select a specifc alignment by clicking the red/yellow line.  Current
 
 Under the alingment the full book text (to provide context) is available.
 
-![](./assets/Alignmentincontext.png)
+![](./assets/AlignmentIncontext.png)
 
 #### Disclaimer:
 This is a prototype version of the KITAB visualisations and only used for experiment/testing purposes.  We aim to develop this further in the future and hope to provide a better user experience. Meanwhile, if you have any feedback or face any issues, please feel free to report via [GitHub]
