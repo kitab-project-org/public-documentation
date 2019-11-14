@@ -1,11 +1,13 @@
 # KITAB Data Visualisation (v5) Tutorial
 
 The visualisation application is accessible via this URL:
-http://kitabapp-v5.azurewebsites.net/
+http://kitabapp-v5.azurewebsites.net/.
 
-By default the visualisation will load an alignment for Musnad Cumar Ibn Khattab(Shamela0026039)/Mustadrak(JK000467)
+By default the visualisation will load an alignment for Musnad CumarIbnKhattab (Shamela0026039) / Mustadrak(JK000467)
 
-There are two different versions of alignment data available and the major difference between these alignments are related to how the outputs are organised (which has an implication on how visualisation read them).  There might be other difference e.g. passim ran with different params. 
+There are two different versions of alignment data available and the major difference between these alignments are related to how the outputs are organised (which has an implication on how visualisation read them).  There might be other difference e.g. passim ran with different params.
+
+Note that before you upload a text reuse file (we often call them SRT files), you need to select `V1 - October 2017` or `V2 - January 2019` and make sure that the file you are uploading into the text reuse browser is of the version that you selected!
 
 #### STEP 1:
 
@@ -23,8 +25,7 @@ The files are stored in the compressed format on the server which will need to b
 
 ![](./assets/gzipungz.png)
 
-Note for Version 2 files:
-If you are using version 2 files, after the file is uncompressed into CSV format it will need to be ranamed to `.srt` before it could be uploaded.
+Note for Version 2 files: If you are using version 2 files, after the file is uncompressed into CSV format it will need to be ranamed to `.srt` before it could be uploaded.
 
 ![](./assets/renamecsvtosrt.png)
 
